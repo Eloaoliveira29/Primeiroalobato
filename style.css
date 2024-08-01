@@ -1,9 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
 body{ 
-    background: linear-gradient(to right, #208ef5,#aa3ed8,#e230b3,#b40b7f);
+    background: linear-gradient(to right, #e90d9f,#3ec1d8,#306ee2,#b40b35);
 
 }
 h1{
     font-size: 70px;
     text-align: center;
 
+}
+.cabecalho{
+    background-color: #e90d9f;
 }
